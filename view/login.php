@@ -1,3 +1,5 @@
+<?php include '/proyecto_paz/view/templates/header.php'; ?>
+
 <section id="login" class="section">
     <div class="auth-container">
         <h2>Iniciar Sesión</h2>
@@ -25,3 +27,7 @@
         </div>
     </div>
 </section>
+
+<script src="auth.js"></script>
+
+<?php include '/proyecto_paz/view/templates/footer.php'; ?>

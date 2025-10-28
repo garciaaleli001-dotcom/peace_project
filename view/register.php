@@ -1,3 +1,5 @@
+<?php include '/templates/header.php'; ?>
+
 <section id="register" class="section">
     <div class="auth-container">
         <h2>Crear Cuenta</h2>
@@ -42,6 +44,8 @@
             <p><a href="index.php?page=home">← Volver al inicio</a></p>
         </div>
     </div>
-    <script src="public/js/auth.js"></script>
-
 </section>
+
+<script src="auth.js"></script>
+
+<?php include '/templates/footer.php'; ?>

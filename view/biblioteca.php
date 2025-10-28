@@ -1,3 +1,5 @@
+<?php include '/templates/header.php'; ?>
+
 <section id="biblioteca" class="section">
     <h2>Biblioteca Digital</h2>
     <p>Explora nuestra colección de recursos educativos sobre convivencia pacífica, inteligencia emocional y resolución de conflictos.</p>
@@ -28,3 +30,5 @@
         </div>
     </div>
 </section>
+
+<?php include '/templates/footer.php'; ?>
